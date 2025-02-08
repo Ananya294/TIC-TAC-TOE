@@ -1,2 +1,2 @@
 "TIC-TAC-TOE" 
-A practice basic project utiling HTML, CSS and JavaScript
+A practice basic project utilizing HTML, CSS and JavaScript
